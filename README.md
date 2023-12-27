@@ -1,1 +1,1 @@
-<p>Personal landing page using a max of HTML and CSS components</p>
+<p>Personal landing page using a mix of HTML and CSS components</p>
